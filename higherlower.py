@@ -22,8 +22,6 @@ while found:
     else:
         answer = "B"
 
-    print(f"Psst! The answer is {answer}")
-
     print(f"Your score is {score}")
     print(f"A is {a['name']}, a {a['description']} from {a['country']}.")
     print(f"B is {b['name']}, a {b['description']} from {b['country']}.")
